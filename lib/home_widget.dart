@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'favorites_widget.dart';
-import 'contacts.dart';
-import 'keypad.dart';
+import 'contacts_widget.dart';
+import 'keypad_widget.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
